@@ -44,6 +44,7 @@
 		344AA6CB2A9AEC0D005CBB2E /* TutorialsOneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TutorialsOneUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		344AA6CF2A9AEC0D005CBB2E /* TutorialsOneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialsOneUITests.swift; sourceTree = "<group>"; };
 		344AA6D12A9AEC0D005CBB2E /* TutorialsOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialsOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		344AA6DE2A9AF187005CBB2E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		344AA6A82A9AEC0B005CBB2E = {
 			isa = PBXGroup;
 			children = (
+				344AA6DE2A9AF187005CBB2E /* README.md */,
 				344AA6B32A9AEC0B005CBB2E /* TutorialsOne */,
 				344AA6C42A9AEC0D005CBB2E /* TutorialsOneTests */,
 				344AA6CE2A9AEC0D005CBB2E /* TutorialsOneUITests */,
